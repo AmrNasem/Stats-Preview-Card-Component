@@ -106,9 +106,9 @@ span {
     flex-direction: column-reverse;
     width: 88%;
     height: auto;
-    /* position: static;
+    position: static;
     transform: translate(0);
-    margin: 30px auto; */
+    margin: 30px auto;
   }
 
   section {
